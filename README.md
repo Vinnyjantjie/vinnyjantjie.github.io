@@ -1,9 +1,6 @@
 # HI, Welcome to my Page
 
-
-
-
-
+I'm a Data Analyst and aspiring Data Engineer with a strong foundation in Business, client service, facilitation and sales. I hold a Bachelor of Business Administration (BBA) and certificates in Data Analytics, Artificial intelligence, Freelance, IBM Data & AI, Python, Professional foundations and Freelance.
 
 # About Me
 
