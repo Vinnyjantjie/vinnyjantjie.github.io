@@ -1,3 +1,10 @@
+# HI, Welcome to my Page
+
+
+
+
+
+
 # About Me
 
 I turn raw data into clear answers that support smarter decisions. My strength sits at the intersection of analysis, structure and communication. I don’t just analyse numbers, I translate them into insights that people can actually use.
